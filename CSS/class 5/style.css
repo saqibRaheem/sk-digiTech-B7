@@ -1,0 +1,31 @@
+.footer{
+    width: 1024px;
+    background-color: black;
+    color: white;
+    height: 60px;
+    text-align: center;
+    margin: auto;
+    position: fixed;
+    bottom: 0;
+    
+}
+.one{
+    width: 50%;
+    height: 200px;
+    border: 2px solid black;
+    float: left;
+}
+.two{
+    border: 2px solid red;
+    height: 100px;
+    width: 500px;
+}
+
+.pera1{
+    background-color: aqua;
+    float: left;
+}
+
+.pera2{
+    clear: both;
+}
